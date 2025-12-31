@@ -1,0 +1,10 @@
+SQLAlchemy
+prettytable
+faker
+matplotlib
+streamlit
+scikit-learn
+pandas
+plotly
+lightgbm
+shap
